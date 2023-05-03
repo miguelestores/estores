@@ -5,7 +5,14 @@ const About = () => {
         <div style={{marginTop: "150px"}}>
             <h2>
                 {" "}
-                ILOVE YOUUUU MWUAAAAA MUWAAAAAA
+                Dami ng smoke, nag-load, nag-toke
+                Na-choke tapos nag-elevate
+                Malamang dope, nag-coke, na-broke
+                Kasi hindi ka nag-behave
+                Dami ng smoke, nag-load, nag-toke
+                Na-choke tapos nag-elevate
+                Malamang dope, nag-coke, na-broke
+                Kasi hindi ka nag-behave
                 
                     
             </h2>

@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/estores/static/css/main.a6f5a7da.css",
+    "main.js": "/estores/static/js/main.c4a493e8.js",
+    "static/js/787.a4b65e5b.chunk.js": "/estores/static/js/787.a4b65e5b.chunk.js",
+    "static/media/artstation-rain-train.gif": "/estores/static/media/artstation-rain-train.6afab5463e28529b407b.gif",
+    "index.html": "/estores/index.html",
+    "main.a6f5a7da.css.map": "/estores/static/css/main.a6f5a7da.css.map",
+    "main.c4a493e8.js.map": "/estores/static/js/main.c4a493e8.js.map",
+    "787.a4b65e5b.chunk.js.map": "/estores/static/js/787.a4b65e5b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a6f5a7da.css",
+    "static/js/main.c4a493e8.js"
+  ]
+}
